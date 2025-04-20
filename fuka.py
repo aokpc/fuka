@@ -3,4 +3,4 @@ f = input("fuka?> ")
 if f=="fuka":
 	print("O")
 else:
-	print("X")
+	print("not fuka")
